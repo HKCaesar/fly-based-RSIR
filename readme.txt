@@ -4,5 +4,5 @@ SAR Image Retrieval based-on Fly Algorithm
 
 2. extract PCA features and gabor features.
 
-3. run "main.m" to retrieval. The PCA-50 in matsr is an example.
+3. run "main.m" to retrieval. The PCA-50 in MSTAR is an example.
 
